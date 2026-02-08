@@ -1623,6 +1623,21 @@
     "position": 107
   },
   {
+    "id": "art7-sec1-sub1",
+    "type": "subclause",
+    "article": 7,
+    "section": 1,
+    "clause": null,
+    "subclause": 1,
+    "text": "The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.",
+    "searchTags": [],
+    "ratifiedOn": "1788-06-21",
+    "effectiveOn": "1789-03-04",
+    "repealedOn": null,
+    "proposedOn": null,
+    "position": 108
+  },
+  {
     "id": "amend1-sub1",
     "type": "amendment",
     "article": null,
@@ -1635,7 +1650,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 108
+    "position": 109
   },
   {
     "id": "amend2-sub1",
@@ -1650,7 +1665,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 109
+    "position": 110
   },
   {
     "id": "amend3-sub1",
@@ -1665,7 +1680,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 110
+    "position": 111
   },
   {
     "id": "amend4-sub1",
@@ -1680,7 +1695,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 111
+    "position": 112
   },
   {
     "id": "amend5-sub1",
@@ -1695,7 +1710,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 112
+    "position": 113
   },
   {
     "id": "amend6-sub1",
@@ -1710,7 +1725,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 113
+    "position": 114
   },
   {
     "id": "amend7-sub1",
@@ -1725,7 +1740,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 114
+    "position": 115
   },
   {
     "id": "amend8-sub1",
@@ -1740,7 +1755,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 115
+    "position": 116
   },
   {
     "id": "amend9-sub1",
@@ -1755,7 +1770,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 116
+    "position": 117
   },
   {
     "id": "amend10-sub1",
@@ -1770,7 +1785,7 @@
     "effectiveOn": "1791-12-15",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 117
+    "position": 118
   },
   {
     "id": "amend11-sub1",
@@ -1785,7 +1800,7 @@
     "effectiveOn": "1795-02-07",
     "repealedOn": null,
     "proposedOn": "1794-03-04",
-    "position": 118
+    "position": 119
   },
   {
     "id": "amend12-sub1",
@@ -1800,7 +1815,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 119
+    "position": 120
   },
   {
     "id": "amend12-sub2",
@@ -1815,7 +1830,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 120
+    "position": 121
   },
   {
     "id": "amend12-sub3",
@@ -1830,7 +1845,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 121
+    "position": 122
   },
   {
     "id": "amend12-sub4",
@@ -1845,7 +1860,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 122
+    "position": 123
   },
   {
     "id": "amend12-sub5",
@@ -1860,7 +1875,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 123
+    "position": 124
   },
   {
     "id": "amend12-sub6",
@@ -1875,7 +1890,7 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 124
+    "position": 125
   },
   {
     "id": "amend12-sub7",
@@ -1890,21 +1905,6 @@
     "effectiveOn": "1804-06-15",
     "repealedOn": null,
     "proposedOn": "1803-12-09",
-    "position": 125
-  },
-  {
-    "id": "amend13-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 13,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1865-12-06",
-    "effectiveOn": "1865-12-06",
-    "repealedOn": null,
-    "proposedOn": "1865-01-31",
     "position": 126
   },
   {
@@ -1914,7 +1914,7 @@
     "section": null,
     "clause": 13,
     "subclause": 2,
-    "text": "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
+    "text": "Section 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.",
     "searchTags": [],
     "ratifiedOn": "1865-12-06",
     "effectiveOn": "1865-12-06",
@@ -1938,34 +1938,19 @@
     "position": 128
   },
   {
-    "id": "amend14-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 14,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1868-07-09",
-    "effectiveOn": "1868-07-09",
-    "repealedOn": null,
-    "proposedOn": "1866-06-13",
-    "position": 129
-  },
-  {
     "id": "amend14-sub2",
     "type": "amendment",
     "article": null,
     "section": null,
     "clause": 14,
     "subclause": 2,
-    "text": "All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.",
+    "text": "Section 1. All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.",
     "searchTags": [],
     "ratifiedOn": "1868-07-09",
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 130
+    "position": 129
   },
   {
     "id": "amend14-sub3",
@@ -1980,7 +1965,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 131
+    "position": 130
   },
   {
     "id": "amend14-sub4",
@@ -1995,7 +1980,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 132
+    "position": 131
   },
   {
     "id": "amend14-sub5",
@@ -2010,7 +1995,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 133
+    "position": 132
   },
   {
     "id": "amend14-sub6",
@@ -2025,7 +2010,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 134
+    "position": 133
   },
   {
     "id": "amend14-sub7",
@@ -2040,7 +2025,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 135
+    "position": 134
   },
   {
     "id": "amend14-sub8",
@@ -2055,7 +2040,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 136
+    "position": 135
   },
   {
     "id": "amend14-sub9",
@@ -2070,7 +2055,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 137
+    "position": 136
   },
   {
     "id": "amend14-sub10",
@@ -2085,22 +2070,7 @@
     "effectiveOn": "1868-07-09",
     "repealedOn": null,
     "proposedOn": "1866-06-13",
-    "position": 138
-  },
-  {
-    "id": "amend15-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 15,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1870-02-03",
-    "effectiveOn": "1870-02-03",
-    "repealedOn": null,
-    "proposedOn": "1869-02-26",
-    "position": 139
+    "position": 137
   },
   {
     "id": "amend15-sub2",
@@ -2109,13 +2079,13 @@
     "section": null,
     "clause": 15,
     "subclause": 2,
-    "text": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude..",
+    "text": "Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude..",
     "searchTags": [],
     "ratifiedOn": "1870-02-03",
     "effectiveOn": "1870-02-03",
     "repealedOn": null,
     "proposedOn": "1869-02-26",
-    "position": 140
+    "position": 138
   },
   {
     "id": "amend15-sub3",
@@ -2130,7 +2100,7 @@
     "effectiveOn": "1870-02-03",
     "repealedOn": null,
     "proposedOn": "1869-02-26",
-    "position": 141
+    "position": 139
   },
   {
     "id": "amend16-sub1",
@@ -2145,7 +2115,7 @@
     "effectiveOn": "1913-02-03",
     "repealedOn": null,
     "proposedOn": "1909-07-12",
-    "position": 142
+    "position": 140
   },
   {
     "id": "amend17-sub1",
@@ -2160,7 +2130,7 @@
     "effectiveOn": "1913-04-08",
     "repealedOn": null,
     "proposedOn": "1912-05-13",
-    "position": 143
+    "position": 141
   },
   {
     "id": "amend17-sub2",
@@ -2175,7 +2145,7 @@
     "effectiveOn": "1913-04-08",
     "repealedOn": null,
     "proposedOn": "1912-05-13",
-    "position": 144
+    "position": 142
   },
   {
     "id": "amend17-sub3",
@@ -2190,7 +2160,7 @@
     "effectiveOn": "1913-04-08",
     "repealedOn": null,
     "proposedOn": "1912-05-13",
-    "position": 145
+    "position": 143
   },
   {
     "id": "amend17-sub4",
@@ -2205,7 +2175,7 @@
     "effectiveOn": "1913-04-08",
     "repealedOn": null,
     "proposedOn": "1912-05-13",
-    "position": 146
+    "position": 144
   },
   {
     "id": "amend17-sub5",
@@ -2220,22 +2190,7 @@
     "effectiveOn": "1913-04-08",
     "repealedOn": null,
     "proposedOn": "1912-05-13",
-    "position": 147
-  },
-  {
-    "id": "amend18-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 18,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1919-01-16",
-    "effectiveOn": "1920-01-16",
-    "repealedOn": "1933-12-05",
-    "proposedOn": "1917-12-18",
-    "position": 148
+    "position": 145
   },
   {
     "id": "amend18-sub2",
@@ -2244,13 +2199,13 @@
     "section": null,
     "clause": 18,
     "subclause": 2,
-    "text": "After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.",
+    "text": "Section 1. After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.",
     "searchTags": [],
     "ratifiedOn": "1919-01-16",
     "effectiveOn": "1920-01-16",
     "repealedOn": "1933-12-05",
     "proposedOn": "1917-12-18",
-    "position": 149
+    "position": 146
   },
   {
     "id": "amend18-sub3",
@@ -2265,7 +2220,7 @@
     "effectiveOn": "1920-01-16",
     "repealedOn": "1933-12-05",
     "proposedOn": "1917-12-18",
-    "position": 150
+    "position": 147
   },
   {
     "id": "amend18-sub4",
@@ -2280,7 +2235,7 @@
     "effectiveOn": "1920-01-16",
     "repealedOn": "1933-12-05",
     "proposedOn": "1917-12-18",
-    "position": 151
+    "position": 148
   },
   {
     "id": "amend19-sub1",
@@ -2295,7 +2250,7 @@
     "effectiveOn": "1920-08-18",
     "repealedOn": null,
     "proposedOn": "1919-06-04",
-    "position": 152
+    "position": 149
   },
   {
     "id": "amend19-sub2",
@@ -2310,22 +2265,7 @@
     "effectiveOn": "1920-08-18",
     "repealedOn": null,
     "proposedOn": "1919-06-04",
-    "position": 153
-  },
-  {
-    "id": "amend20-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 20,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1933-01-23",
-    "effectiveOn": "1933-01-23",
-    "repealedOn": null,
-    "proposedOn": "1932-03-02",
-    "position": 154
+    "position": 150
   },
   {
     "id": "amend20-sub2",
@@ -2334,13 +2274,13 @@
     "section": null,
     "clause": 20,
     "subclause": 2,
-    "text": "The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.",
+    "text": "Section 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.",
     "searchTags": [],
     "ratifiedOn": "1933-01-23",
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 155
+    "position": 151
   },
   {
     "id": "amend20-sub3",
@@ -2355,7 +2295,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 156
+    "position": 152
   },
   {
     "id": "amend20-sub4",
@@ -2370,7 +2310,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 157
+    "position": 153
   },
   {
     "id": "amend20-sub5",
@@ -2385,7 +2325,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 158
+    "position": 154
   },
   {
     "id": "amend20-sub6",
@@ -2400,7 +2340,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 159
+    "position": 155
   },
   {
     "id": "amend20-sub7",
@@ -2415,7 +2355,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 160
+    "position": 156
   },
   {
     "id": "amend20-sub8",
@@ -2430,22 +2370,7 @@
     "effectiveOn": "1933-01-23",
     "repealedOn": null,
     "proposedOn": "1932-03-02",
-    "position": 161
-  },
-  {
-    "id": "amend21-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 21,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1933-12-05",
-    "effectiveOn": "1933-12-05",
-    "repealedOn": null,
-    "proposedOn": "1933-02-20",
-    "position": 162
+    "position": 157
   },
   {
     "id": "amend21-sub2",
@@ -2454,13 +2379,13 @@
     "section": null,
     "clause": 21,
     "subclause": 2,
-    "text": "The eighteenth article of amendment to the Constitution of the United States is hereby repealed.",
+    "text": "Section 1. The eighteenth article of amendment to the Constitution of the United States is hereby repealed.",
     "searchTags": [],
     "ratifiedOn": "1933-12-05",
     "effectiveOn": "1933-12-05",
     "repealedOn": null,
     "proposedOn": "1933-02-20",
-    "position": 163
+    "position": 158
   },
   {
     "id": "amend21-sub3",
@@ -2475,7 +2400,7 @@
     "effectiveOn": "1933-12-05",
     "repealedOn": null,
     "proposedOn": "1933-02-20",
-    "position": 164
+    "position": 159
   },
   {
     "id": "amend21-sub4",
@@ -2490,22 +2415,7 @@
     "effectiveOn": "1933-12-05",
     "repealedOn": null,
     "proposedOn": "1933-02-20",
-    "position": 165
-  },
-  {
-    "id": "amend22-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 22,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1951-02-27",
-    "effectiveOn": "1951-02-27",
-    "repealedOn": null,
-    "proposedOn": "1947-03-21",
-    "position": 166
+    "position": 160
   },
   {
     "id": "amend22-sub2",
@@ -2514,13 +2424,13 @@
     "section": null,
     "clause": 22,
     "subclause": 2,
-    "text": "No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.",
+    "text": "Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.",
     "searchTags": [],
     "ratifiedOn": "1951-02-27",
     "effectiveOn": "1951-02-27",
     "repealedOn": null,
     "proposedOn": "1947-03-21",
-    "position": 167
+    "position": 161
   },
   {
     "id": "amend22-sub3",
@@ -2535,7 +2445,7 @@
     "effectiveOn": "1951-02-27",
     "repealedOn": null,
     "proposedOn": "1947-03-21",
-    "position": 168
+    "position": 162
   },
   {
     "id": "amend22-sub4",
@@ -2550,7 +2460,7 @@
     "effectiveOn": "1951-02-27",
     "repealedOn": null,
     "proposedOn": "1947-03-21",
-    "position": 169
+    "position": 163
   },
   {
     "id": "amend23-sub2",
@@ -2565,7 +2475,7 @@
     "effectiveOn": "1961-03-29",
     "repealedOn": null,
     "proposedOn": "1960-03-29",
-    "position": 170
+    "position": 164
   },
   {
     "id": "amend23-sub3",
@@ -2580,7 +2490,7 @@
     "effectiveOn": "1961-03-29",
     "repealedOn": null,
     "proposedOn": "1960-03-29",
-    "position": 171
+    "position": 165
   },
   {
     "id": "amend23-sub4",
@@ -2595,22 +2505,7 @@
     "effectiveOn": "1961-03-29",
     "repealedOn": null,
     "proposedOn": "1960-03-29",
-    "position": 172
-  },
-  {
-    "id": "amend24-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 24,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1964-01-23",
-    "effectiveOn": "1964-01-23",
-    "repealedOn": null,
-    "proposedOn": "1962-08-27",
-    "position": 173
+    "position": 166
   },
   {
     "id": "amend24-sub2",
@@ -2619,13 +2514,13 @@
     "section": null,
     "clause": 24,
     "subclause": 2,
-    "text": "The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.",
+    "text": "Section 1. The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.",
     "searchTags": [],
     "ratifiedOn": "1964-01-23",
     "effectiveOn": "1964-01-23",
     "repealedOn": null,
     "proposedOn": "1962-08-27",
-    "position": 174
+    "position": 167
   },
   {
     "id": "amend24-sub3",
@@ -2640,22 +2535,7 @@
     "effectiveOn": "1964-01-23",
     "repealedOn": null,
     "proposedOn": "1962-08-27",
-    "position": 175
-  },
-  {
-    "id": "amend25-sub1",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 25,
-    "subclause": 1,
-    "text": "1.",
-    "searchTags": [],
-    "ratifiedOn": "1967-02-10",
-    "effectiveOn": "1967-02-10",
-    "repealedOn": null,
-    "proposedOn": "1965-07-06",
-    "position": 176
+    "position": 168
   },
   {
     "id": "amend25-sub2",
@@ -2664,13 +2544,13 @@
     "section": null,
     "clause": 25,
     "subclause": 2,
-    "text": "In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.",
+    "text": "Section 1. In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.",
     "searchTags": [],
     "ratifiedOn": "1967-02-10",
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 177
+    "position": 169
   },
   {
     "id": "amend25-sub3",
@@ -2685,7 +2565,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 178
+    "position": 170
   },
   {
     "id": "amend25-sub4",
@@ -2700,7 +2580,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 179
+    "position": 171
   },
   {
     "id": "amend25-sub5",
@@ -2715,7 +2595,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 180
+    "position": 172
   },
   {
     "id": "amend25-sub6",
@@ -2730,7 +2610,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 181
+    "position": 173
   },
   {
     "id": "amend25-sub7",
@@ -2745,7 +2625,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 182
+    "position": 174
   },
   {
     "id": "amend25-sub8",
@@ -2760,7 +2640,7 @@
     "effectiveOn": "1967-02-10",
     "repealedOn": null,
     "proposedOn": "1965-07-06",
-    "position": 183
+    "position": 175
   },
   {
     "id": "amend26-sub2",
@@ -2775,7 +2655,7 @@
     "effectiveOn": "1971-07-01",
     "repealedOn": null,
     "proposedOn": "1971-03-23",
-    "position": 184
+    "position": 176
   },
   {
     "id": "amend26-sub3",
@@ -2790,7 +2670,7 @@
     "effectiveOn": "1971-07-01",
     "repealedOn": null,
     "proposedOn": "1971-03-23",
-    "position": 185
+    "position": 177
   },
   {
     "id": "amend27-sub1",
@@ -2805,6 +2685,6 @@
     "effectiveOn": "1992-05-07",
     "repealedOn": null,
     "proposedOn": "1789-09-25",
-    "position": 186
+    "position": 178
   }
 ]

@@ -343,6 +343,11 @@ This Constitution, and the Laws of the United States which shall be made in Purs
 #### Article 6, Section 1, Subclause 3 [art6-sec1-sub3]
 The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States.
 
+### Article 7
+
+#### Article 7, Section 1, Subclause 1 [art7-sec1-sub1]
+The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
+
 ## Amendments
 
 ### Amendment 1
@@ -425,22 +430,16 @@ But no person constitutionally ineligible to the office of President shall be el
 
 ### Amendment 13
 
-#### Amendment 13, Subclause 1 [amend13-sub1]
-1.
-
 #### Amendment 13, Subclause 2 [amend13-sub2]
-Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
+Section 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
 
 #### Amendment 13, Subclause 3 [amend13-sub3]
 Congress shall have power to enforce this article by appropriate legislation.
 
 ### Amendment 14
 
-#### Amendment 14, Subclause 1 [amend14-sub1]
-1.
-
 #### Amendment 14, Subclause 2 [amend14-sub2]
-All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
+Section 1. All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside.
 
 #### Amendment 14, Subclause 3 [amend14-sub3]
 No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
@@ -468,11 +467,8 @@ The Congress shall have power to enforce, by appropriate legislation, the provis
 
 ### Amendment 15
 
-#### Amendment 15, Subclause 1 [amend15-sub1]
-1.
-
 #### Amendment 15, Subclause 2 [amend15-sub2]
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude..
+Section 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude..
 
 #### Amendment 15, Subclause 3 [amend15-sub3]
 The Congress shall have power to enforce this article by appropriate legislation.
@@ -501,12 +497,8 @@ This amendment shall not be so construed as to affect the election or term of an
 
 ### Amendment 18
 
-#### Amendment 18, Subclause 1 [amend18-sub1]
-1.
-[Repealed on 1933-12-05]
-
 #### Amendment 18, Subclause 2 [amend18-sub2]
-After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
+Section 1. After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
 [Repealed on 1933-12-05]
 
 #### Amendment 18, Subclause 3 [amend18-sub3]
@@ -527,11 +519,8 @@ Congress shall have power to enforce this article by appropriate legislation.
 
 ### Amendment 20
 
-#### Amendment 20, Subclause 1 [amend20-sub1]
-1.
-
 #### Amendment 20, Subclause 2 [amend20-sub2]
-The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
+Section 1. The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
 
 #### Amendment 20, Subclause 3 [amend20-sub3]
 The Congress shall assemble at least once in every year, and such meeting shall begin at noon on the 3d day of January, unless they shall by law appoint a different day.
@@ -553,11 +542,8 @@ This article shall be inoperative unless it shall have been ratified as an amend
 
 ### Amendment 21
 
-#### Amendment 21, Subclause 1 [amend21-sub1]
-1.
-
 #### Amendment 21, Subclause 2 [amend21-sub2]
-The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
+Section 1. The eighteenth article of amendment to the Constitution of the United States is hereby repealed.
 
 #### Amendment 21, Subclause 3 [amend21-sub3]
 The transportation or importation into any State, Territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof, is hereby prohibited.
@@ -567,11 +553,8 @@ The article shall be inoperative unless it shall have been ratified as an amendm
 
 ### Amendment 22
 
-#### Amendment 22, Subclause 1 [amend22-sub1]
-1.
-
 #### Amendment 22, Subclause 2 [amend22-sub2]
-No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
+Section 1. No person shall be elected to the office of the President more than twice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of the President more than once.
 
 #### Amendment 22, Subclause 3 [amend22-sub3]
 But this Article shall not apply to any person holding the office of President, when this Article was proposed by the Congress, and shall not prevent any person who may be holding the office of President, or acting as President, during the term within which this Article becomes operative from holding the office of President or acting as President during the remainder of such term.
@@ -592,22 +575,16 @@ The Congress shall have power to enforce this article by appropriate legislation
 
 ### Amendment 24
 
-#### Amendment 24, Subclause 1 [amend24-sub1]
-1.
-
 #### Amendment 24, Subclause 2 [amend24-sub2]
-The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.
+Section 1. The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.
 
 #### Amendment 24, Subclause 3 [amend24-sub3]
 The Congress shall have power to enforce this article by appropriate legislation.
 
 ### Amendment 25
 
-#### Amendment 25, Subclause 1 [amend25-sub1]
-1.
-
 #### Amendment 25, Subclause 2 [amend25-sub2]
-In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.
+Section 1. In case of the removal of the President from office or of his death or resignation, the Vice President shall become President.
 
 #### Amendment 25, Subclause 3 [amend25-sub3]
 Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by a majority vote of both Houses of Congress.

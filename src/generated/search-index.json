@@ -1296,6 +1296,18 @@
     "searchable": "the senators and representatives before mentioned, and the members of the several state legislatures, and all executive and judicial officers, both of the united states and of the several states, shall be bound by oath or affirmation, to support this constitution; but no religious test shall ever be required as a qualification to any office or public trust under the united states. art6-sec1-sub3 article 6, section 1, subclause 3"
   },
   {
+    "id": "art7-sec1-sub1",
+    "part": "article",
+    "type": "subclause",
+    "article": 7,
+    "section": 1,
+    "clause": null,
+    "subclause": 1,
+    "amendmentNumber": null,
+    "isRepealed": false,
+    "searchable": "the ratification of the conventions of nine states, shall be sufficient for the establishment of this constitution between the states so ratifying the same. art7-sec1-sub1 article 7, section 1, subclause 1"
+  },
+  {
     "id": "amend1-sub1",
     "part": "amendment",
     "type": "amendment",
@@ -1512,18 +1524,6 @@
     "searchable": "but no person constitutionally ineligible to the office of president shall be eligible to that of vice-president of the united states. amend12-sub7 amendment 12, clause 12, subclause 7"
   },
   {
-    "id": "amend13-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 13,
-    "subclause": 1,
-    "amendmentNumber": 13,
-    "isRepealed": false,
-    "searchable": "1. amend13-sub1 amendment 13, clause 13, subclause 1"
-  },
-  {
     "id": "amend13-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1533,7 +1533,7 @@
     "subclause": 2,
     "amendmentNumber": 13,
     "isRepealed": false,
-    "searchable": "neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the united states, or any place subject to their jurisdiction. amend13-sub2 amendment 13, clause 13, subclause 2"
+    "searchable": "section 1. neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the united states, or any place subject to their jurisdiction. amend13-sub2 amendment 13, clause 13, subclause 2"
   },
   {
     "id": "amend13-sub3",
@@ -1548,18 +1548,6 @@
     "searchable": "congress shall have power to enforce this article by appropriate legislation. amend13-sub3 amendment 13, clause 13, subclause 3"
   },
   {
-    "id": "amend14-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 14,
-    "subclause": 1,
-    "amendmentNumber": 14,
-    "isRepealed": false,
-    "searchable": "1. amend14-sub1 amendment 14, clause 14, subclause 1"
-  },
-  {
     "id": "amend14-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1569,7 +1557,7 @@
     "subclause": 2,
     "amendmentNumber": 14,
     "isRepealed": false,
-    "searchable": "all persons born or naturalized in the united states, and subject to the jurisdiction thereof, are citizens of the united states and of the state wherein they reside. amend14-sub2 amendment 14, clause 14, subclause 2"
+    "searchable": "section 1. all persons born or naturalized in the united states, and subject to the jurisdiction thereof, are citizens of the united states and of the state wherein they reside. amend14-sub2 amendment 14, clause 14, subclause 2"
   },
   {
     "id": "amend14-sub3",
@@ -1668,18 +1656,6 @@
     "searchable": "the congress shall have power to enforce, by appropriate legislation, the provisions of this article. amend14-sub10 amendment 14, clause 14, subclause 10"
   },
   {
-    "id": "amend15-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 15,
-    "subclause": 1,
-    "amendmentNumber": 15,
-    "isRepealed": false,
-    "searchable": "1. amend15-sub1 amendment 15, clause 15, subclause 1"
-  },
-  {
     "id": "amend15-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1689,7 +1665,7 @@
     "subclause": 2,
     "amendmentNumber": 15,
     "isRepealed": false,
-    "searchable": "the right of citizens of the united states to vote shall not be denied or abridged by the united states or by any state on account of race, color, or previous condition of servitude.. amend15-sub2 amendment 15, clause 15, subclause 2"
+    "searchable": "section 1. the right of citizens of the united states to vote shall not be denied or abridged by the united states or by any state on account of race, color, or previous condition of servitude.. amend15-sub2 amendment 15, clause 15, subclause 2"
   },
   {
     "id": "amend15-sub3",
@@ -1776,18 +1752,6 @@
     "searchable": "this amendment shall not be so construed as to affect the election or term of any senator chosen before it becomes valid as part of the constitution. amend17-sub5 amendment 17, clause 17, subclause 5"
   },
   {
-    "id": "amend18-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 18,
-    "subclause": 1,
-    "amendmentNumber": 18,
-    "isRepealed": true,
-    "searchable": "1. amend18-sub1 amendment 18, clause 18, subclause 1"
-  },
-  {
     "id": "amend18-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1797,7 +1761,7 @@
     "subclause": 2,
     "amendmentNumber": 18,
     "isRepealed": true,
-    "searchable": "after one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the united states and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited. amend18-sub2 amendment 18, clause 18, subclause 2"
+    "searchable": "section 1. after one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the united states and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited. amend18-sub2 amendment 18, clause 18, subclause 2"
   },
   {
     "id": "amend18-sub3",
@@ -1848,18 +1812,6 @@
     "searchable": "congress shall have power to enforce this article by appropriate legislation. amend19-sub2 amendment 19, clause 19, subclause 2"
   },
   {
-    "id": "amend20-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 20,
-    "subclause": 1,
-    "amendmentNumber": 20,
-    "isRepealed": false,
-    "searchable": "1. amend20-sub1 amendment 20, clause 20, subclause 1"
-  },
-  {
     "id": "amend20-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1869,7 +1821,7 @@
     "subclause": 2,
     "amendmentNumber": 20,
     "isRepealed": false,
-    "searchable": "the terms of the president and vice president shall end at noon on the 20th day of january, and the terms of senators and representatives at noon on the 3d day of january, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin. amend20-sub2 amendment 20, clause 20, subclause 2"
+    "searchable": "section 1. the terms of the president and vice president shall end at noon on the 20th day of january, and the terms of senators and representatives at noon on the 3d day of january, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin. amend20-sub2 amendment 20, clause 20, subclause 2"
   },
   {
     "id": "amend20-sub3",
@@ -1944,18 +1896,6 @@
     "searchable": "this article shall be inoperative unless it shall have been ratified as an amendment to the constitution by the legislatures of three-fourths of the several states within seven years from the date of its submission. amend20-sub8 amendment 20, clause 20, subclause 8"
   },
   {
-    "id": "amend21-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 21,
-    "subclause": 1,
-    "amendmentNumber": 21,
-    "isRepealed": false,
-    "searchable": "1. amend21-sub1 amendment 21, clause 21, subclause 1"
-  },
-  {
     "id": "amend21-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -1965,7 +1905,7 @@
     "subclause": 2,
     "amendmentNumber": 21,
     "isRepealed": false,
-    "searchable": "the eighteenth article of amendment to the constitution of the united states is hereby repealed. amend21-sub2 amendment 21, clause 21, subclause 2"
+    "searchable": "section 1. the eighteenth article of amendment to the constitution of the united states is hereby repealed. amend21-sub2 amendment 21, clause 21, subclause 2"
   },
   {
     "id": "amend21-sub3",
@@ -1992,18 +1932,6 @@
     "searchable": "the article shall be inoperative unless it shall have been ratified as an amendment to the constitution by conventions in the several states, as provided in the constitution, within seven years from the date of the submission hereof to the states by the congress. amend21-sub4 amendment 21, clause 21, subclause 4"
   },
   {
-    "id": "amend22-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 22,
-    "subclause": 1,
-    "amendmentNumber": 22,
-    "isRepealed": false,
-    "searchable": "1. amend22-sub1 amendment 22, clause 22, subclause 1"
-  },
-  {
     "id": "amend22-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -2013,7 +1941,7 @@
     "subclause": 2,
     "amendmentNumber": 22,
     "isRepealed": false,
-    "searchable": "no person shall be elected to the office of the president more than twice, and no person who has held the office of president, or acted as president, for more than two years of a term to which some other person was elected president shall be elected to the office of the president more than once. amend22-sub2 amendment 22, clause 22, subclause 2"
+    "searchable": "section 1. no person shall be elected to the office of the president more than twice, and no person who has held the office of president, or acted as president, for more than two years of a term to which some other person was elected president shall be elected to the office of the president more than once. amend22-sub2 amendment 22, clause 22, subclause 2"
   },
   {
     "id": "amend22-sub3",
@@ -2076,18 +2004,6 @@
     "searchable": "the congress shall have power to enforce this article by appropriate legislation. amend23-sub4 amendment 23, clause 23, subclause 4"
   },
   {
-    "id": "amend24-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 24,
-    "subclause": 1,
-    "amendmentNumber": 24,
-    "isRepealed": false,
-    "searchable": "1. amend24-sub1 amendment 24, clause 24, subclause 1"
-  },
-  {
     "id": "amend24-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -2097,7 +2013,7 @@
     "subclause": 2,
     "amendmentNumber": 24,
     "isRepealed": false,
-    "searchable": "the right of citizens of the united states to vote in any primary or other election for president or vice president, for electors for president or vice president, or for senator or representative in congress, shall not be denied or abridged by the united states or any state by reason of failure to pay any poll tax or other tax. amend24-sub2 amendment 24, clause 24, subclause 2"
+    "searchable": "section 1. the right of citizens of the united states to vote in any primary or other election for president or vice president, for electors for president or vice president, or for senator or representative in congress, shall not be denied or abridged by the united states or any state by reason of failure to pay any poll tax or other tax. amend24-sub2 amendment 24, clause 24, subclause 2"
   },
   {
     "id": "amend24-sub3",
@@ -2112,18 +2028,6 @@
     "searchable": "the congress shall have power to enforce this article by appropriate legislation. amend24-sub3 amendment 24, clause 24, subclause 3"
   },
   {
-    "id": "amend25-sub1",
-    "part": "amendment",
-    "type": "amendment",
-    "article": null,
-    "section": null,
-    "clause": 25,
-    "subclause": 1,
-    "amendmentNumber": 25,
-    "isRepealed": false,
-    "searchable": "1. amend25-sub1 amendment 25, clause 25, subclause 1"
-  },
-  {
     "id": "amend25-sub2",
     "part": "amendment",
     "type": "amendment",
@@ -2133,7 +2037,7 @@
     "subclause": 2,
     "amendmentNumber": 25,
     "isRepealed": false,
-    "searchable": "in case of the removal of the president from office or of his death or resignation, the vice president shall become president. amend25-sub2 amendment 25, clause 25, subclause 2"
+    "searchable": "section 1. in case of the removal of the president from office or of his death or resignation, the vice president shall become president. amend25-sub2 amendment 25, clause 25, subclause 2"
   },
   {
     "id": "amend25-sub3",
