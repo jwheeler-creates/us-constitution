@@ -13,7 +13,7 @@ Static-first US Constitution reader built with vanilla HTML/CSS/JS and Vite, des
 
 ## Requirements
 
-- Node `>=22.12.0`
+- Node `>=24.0.0`
 - `nvm` recommended (`.nvmrc` is included)
 
 ## Local development
@@ -48,7 +48,7 @@ Outputs to `dist/` (configured in `wrangler.jsonc` for Cloudflare Pages).
 
 1. Push this project to GitHub/GitLab.
 2. In Cloudflare Dashboard: Workers & Pages -> Create -> Pages -> Connect to Git.
-3. Set environment variable `NODE_VERSION=22.20.0` for Production and Preview.
+3. Set environment variable `NODE_VERSION=24` for Production and Preview.
 4. Build command: `npm run build`
 5. Build output directory: `dist`
 6. Deploy.
