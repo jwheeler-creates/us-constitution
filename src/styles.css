@@ -580,11 +580,6 @@ select:focus-visible {
   cursor: pointer;
 }
 
-.entry-anchor-link {
-  font-size: 0.78rem;
-  margin-left: 0.45rem;
-}
-
 html.hide-entry-headers .entry-heading-row {
   display: none;
 }

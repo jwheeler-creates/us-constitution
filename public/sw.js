@@ -1,4 +1,4 @@
-const CACHE_NAME = "usconstitution-v1";
+const CACHE_NAME = "usconstitution-v2";
 const APP_SHELL = ["/", "/index.html", "/about.html", "/favicon.svg"];
 const STATIC_DESTINATIONS = new Set(["script", "style", "image", "font"]);
 

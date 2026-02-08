@@ -164,7 +164,7 @@ function buildDetailsHtml(entry, entryAnchorId) {
     '  <details class="entry-details">',
     '    <summary class="entry-details-toggle" aria-label="Entry details">i</summary>',
     '    <dl class="entry-details-list">',
-    `      <div class="entry-detail-row entry-detail-row-link"><dt>Link</dt><dd><button type="button" class="copy-anchor-button" data-anchor-id="${escapeHtml(entryAnchorId)}">Copy link</button> <a class="entry-anchor-link" href="#${escapeHtml(entryAnchorId)}">Open</a></dd></div>`,
+    `      <div class="entry-detail-row entry-detail-row-link"><dt>Link</dt><dd><button type="button" class="copy-anchor-button" data-anchor-id="${escapeHtml(entryAnchorId)}">Copy link</button></dd></div>`,
     itemsHtml,
     "    </dl>",
     "  </details>"
@@ -259,7 +259,7 @@ function buildToc(entries) {
   const amendmentTargets = new Map();
 
   for (const entry of entries) {
-    const targetId = `entry-${entry.id}`;
+    const targetId = entry.id;
 
     if (entry.part === "preamble") {
       if (preambleTargetId === null) {
@@ -401,7 +401,7 @@ function buildContent(entries) {
     }
 
     const escapedId = escapeHtml(entry.id);
-    const entryId = `entry-${escapedId}`;
+    const entryId = escapedId;
     const articleValue = entry.article === null ? "" : String(entry.article);
     const amendmentValue =
       entry.amendmentNumber === null ? "" : String(entry.amendmentNumber);
