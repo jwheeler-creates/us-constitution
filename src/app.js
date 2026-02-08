@@ -469,8 +469,21 @@ function headingHasVisibleEntries(heading, visibleEntries) {
   return true;
 }
 
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) {
+    return;
+  }
+
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("/sw.js").catch((error) => {
+      console.warn("Service worker registration failed:", error);
+    });
+  });
+}
+
 function initialize() {
   document.documentElement.classList.add("js");
+  registerServiceWorker();
   initializeThemeSwitch();
   initializeViewControls();
 

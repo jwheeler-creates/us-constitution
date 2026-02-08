@@ -48,10 +48,17 @@ Outputs to `dist/` (configured in `wrangler.jsonc` for Cloudflare Pages).
 
 1. Push this project to GitHub/GitLab.
 2. In Cloudflare Dashboard: Workers & Pages -> Create -> Pages -> Connect to Git.
-3. Build command: `npm run build`
-4. Build output directory: `dist`
-5. Deploy.
-6. Add custom domain `usconstitution.app` in Pages project settings.
+3. Set environment variable `NODE_VERSION=22.20.0` for Production and Preview.
+4. Build command: `npm run build`
+5. Build output directory: `dist`
+6. Deploy.
+7. Add custom domain `usconstitution.app` in Pages project settings.
+
+The build includes:
+- `/about.html` + `/about` redirect
+- `/sw.js` service worker for offline shell caching
+- `/favicon.svg`
+- security/caching headers from `public/_headers`
 
 ## Files
 

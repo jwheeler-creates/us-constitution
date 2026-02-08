@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>US Constitution</title>
+  <rect width="64" height="64" rx="12" fill="#002868"/>
+  <path d="M32 12l4.8 9.7 10.7 1.6-7.7 7.5 1.8 10.6L32 36.2l-9.6 5.2 1.8-10.6-7.7-7.5 10.7-1.6z" fill="#ffffff"/>
+  <rect x="10" y="50" width="44" height="6" rx="3" fill="#bf0a30"/>
+</svg>

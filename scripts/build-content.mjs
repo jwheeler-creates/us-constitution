@@ -251,45 +251,64 @@ function normalize(rawData) {
  */
 function buildToc(entries) {
   const parts = [];
-  const articleNumbers = new Set();
-  const amendmentNumbers = new Set();
-  let hasPreamble = false;
+  /** @type {string|null} */
+  let preambleTargetId = null;
+  /** @type {Map<number, string>} */
+  const articleTargets = new Map();
+  /** @type {Map<number, string>} */
+  const amendmentTargets = new Map();
 
   for (const entry of entries) {
+    const targetId = `entry-${entry.id}`;
+
     if (entry.part === "preamble") {
-      hasPreamble = true;
+      if (preambleTargetId === null) {
+        preambleTargetId = targetId;
+      }
     }
+
     if (entry.part === "article" && entry.article !== null) {
-      articleNumbers.add(entry.article);
+      if (!articleTargets.has(entry.article)) {
+        articleTargets.set(entry.article, targetId);
+      }
     }
+
     if (entry.part === "amendment" && entry.amendmentNumber !== null) {
-      amendmentNumbers.add(entry.amendmentNumber);
+      if (!amendmentTargets.has(entry.amendmentNumber)) {
+        amendmentTargets.set(entry.amendmentNumber, targetId);
+      }
     }
   }
 
-  if (hasPreamble) {
-    parts.push(
-      '<li><a href="#part-preamble">Preamble</a></li>'
-    );
+  if (preambleTargetId) {
+    parts.push(`<li><a href="#${preambleTargetId}">Preamble</a></li>`);
   }
 
-  const sortedArticleNumbers = [...articleNumbers].sort((a, b) => a - b);
-  const sortedAmendmentNumbers = [...amendmentNumbers].sort((a, b) => a - b);
+  const sortedArticleNumbers = [...articleTargets.keys()].sort((a, b) => a - b);
+  const sortedAmendmentNumbers = [...amendmentTargets.keys()].sort((a, b) => a - b);
 
   if (sortedArticleNumbers.length > 0) {
-    parts.push('<li class="toc-group"><a href="#part-articles">Part: Articles</a></li>');
+    const firstArticleTarget = articleTargets.get(sortedArticleNumbers[0]);
+    parts.push(
+      `<li class="toc-group"><a href="#${firstArticleTarget}">Part: Articles</a></li>`
+    );
     for (const num of sortedArticleNumbers) {
+      const target = articleTargets.get(num);
       parts.push(
-        `<li class="toc-subitem"><a href="#part-article-${num}">Article ${num}</a></li>`
+        `<li class="toc-subitem"><a href="#${target}">Article ${num}</a></li>`
       );
     }
   }
 
   if (sortedAmendmentNumbers.length > 0) {
-    parts.push('<li class="toc-group"><a href="#part-amendments">Part: Amendments</a></li>');
+    const firstAmendmentTarget = amendmentTargets.get(sortedAmendmentNumbers[0]);
+    parts.push(
+      `<li class="toc-group"><a href="#${firstAmendmentTarget}">Part: Amendments</a></li>`
+    );
     for (const num of sortedAmendmentNumbers) {
+      const target = amendmentTargets.get(num);
       parts.push(
-        `<li class="toc-subitem"><a href="#part-amendment-${num}">Amendment ${num}</a></li>`
+        `<li class="toc-subitem"><a href="#${target}">Amendment ${num}</a></li>`
       );
     }
   }

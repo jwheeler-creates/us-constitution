@@ -311,6 +311,24 @@ html.js .enhancement-note {
   margin-top: 0.35rem;
 }
 
+.sidebar-disclaimer {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 0.8rem 0.9rem;
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+
+.sidebar-disclaimer p {
+  margin: 0;
+}
+
+.sidebar-disclaimer p + p {
+  margin-top: 0.4rem;
+}
+
 .toc-list {
   margin: 0.72rem 0 0;
   padding: 0;
@@ -652,6 +670,10 @@ html[data-theme="dark"] .header-visibility-row label {
   color: #c7d6f2;
 }
 
+html[data-theme="dark"] .sidebar-disclaimer {
+  color: #b2c1dc;
+}
+
 html[data-theme="dark"] .controls-grid input,
 html[data-theme="dark"] .controls-grid select,
 html[data-theme="dark"] .controls-grid button,
@@ -732,6 +754,46 @@ html[data-theme="dark"] .toc-subitem > a {
 
 html[data-theme="dark"] .toc-list a:hover {
   background: #1a3159;
+}
+
+.about-layout {
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.about-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 1.15rem 1.2rem;
+}
+
+.about-card h2,
+.about-card h3 {
+  color: var(--header-title);
+}
+
+.about-card h2 {
+  margin-top: 0;
+}
+
+.about-card h3 {
+  margin-top: 1.05rem;
+  margin-bottom: 0.3rem;
+}
+
+.about-card p {
+  margin: 0.35rem 0 0;
+}
+
+.about-card code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background: var(--panel-soft);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0.05rem 0.28rem;
 }
 
 @media (max-width: 1080px) {
