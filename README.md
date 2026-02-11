@@ -55,7 +55,7 @@ Outputs to `dist/` (configured in `wrangler.jsonc` for Cloudflare Pages).
 7. Add custom domain `usconstitution.app` in Pages project settings.
 
 The build includes:
-- `/about.html`
+- `/about` (and legacy `/about.html`)
 - `/sw.js` service worker for offline shell caching
 - `/favicon.svg`
 - security/caching headers from `public/_headers`
